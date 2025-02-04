@@ -21,7 +21,7 @@ receipt-processor
 ## Setup Instructions
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/balmurikarthikrao/receipt-processor.git
    cd receipt-processor
    ```
 
