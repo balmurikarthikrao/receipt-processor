@@ -77,7 +77,7 @@ receipt-processor
 }
 ```
 
-## How to run this application
+## How to run this application in Docker
 
 Build the Docker image:
 ```shell
